@@ -1,23 +1,10 @@
-# 👋 Hello World! Welcome to my GitHub Profile
+# 👋 Welcome to my GitHub Profile
 
-원하시는 언어의 탭을 클릭하여 프로필을 확인해보세요.  
-Choose your preferred language to read my profile.
+<p align="left">
+  <img src="https://badgen.net/badge/hits/profile/purple?icon=github" alt="Hits"/>
+</p>
 
-### 🛠 Tech Stack
-
-#### Languages & Frameworks
-<img src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-
-#### Data & Infrastructure
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-
-## 📊 GitHub Stats
-
-![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyoung-King&show_icons=true&theme=dracula&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyoung-King&layout=compact&theme=dracula)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyoung-King&count_bg=%237938B2&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Jinyoung-King)
+원하시는 언어의 탭을 클릭하여 프로필을 확인해보세요. / Choose your preferred language to read my profile.
 
 ---
 
@@ -33,12 +20,6 @@ Choose your preferred language to read my profile.
 * **확장성 있는 아키텍처 (Scalable Architecture):** 분산 시스템 및 고성능 데이터 흐름 설계
 * **성능 최적화 (Performance Tuning):** JVM 튜닝, 가비지 컬렉션(G1GC, Generational ZGC) 최적화 및 DB 쿼리 튜닝
 * **클린 코드 & 자동화 (Clean Code & Automation):** SOLID 원칙 준수 및 CI/CD 파이프라인 자동화
-
-## 🛠 기술 스택 (Tech Stack)
-* **Backend:** Java (Targeting Java 21), Kotlin, Spring Boot, Hibernate (JPA)
-* **Frontend & Scripting:** JavaScript, Shell Script
-* **Databases:** MySQL, Elasticsearch, Firebase (Cloud Firestore), Flyway
-* **DevOps & Tools:** GitLab CI/CD, Docker, IntelliJ IDEA, WebStorm, Git
 
 ## 🚀 주요 프로젝트 및 연구 (Projects & Focus)
 * **대용량 분산 스케줄러 엔진 아키텍처 개선**
@@ -65,12 +46,6 @@ A passionate Backend Developer with 8 years of experience specializing in buildi
 * **Performance Tuning:** JVM tuning, Garbage Collection (G1GC, Generational ZGC), and DB query optimization.
 * **Clean Code & Automation:** Adhering to SOLID principles and automating CI/CD pipelines.
 
-## 🛠 Tech Stack
-* **Backend:** Java (Targeting Java 21), Kotlin, Spring Boot, Hibernate (JPA)
-* **Frontend & Scripting:** JavaScript, Shell Script
-* **Databases:** MySQL, Elasticsearch, Firebase (Cloud Firestore), Flyway
-* **DevOps & Tools:** GitLab CI/CD, Docker, IntelliJ IDEA, WebStorm, Git
-
 ## 🚀 Projects & Focus
 * **Distributed Scheduler Engine Refactoring**
   * Re-architected a legacy in-memory scheduling system into a DB-shared worker model to ensure robustness in clustered server environments.
@@ -82,3 +57,17 @@ A passionate Backend Developer with 8 years of experience specializing in buildi
 ---
 > "Clean code always looks like it was written by someone who cares." - *Michael Feathers*
 </details>
+
+---
+
+## 🛠 Tech Stack
+
+#### Languages & Frameworks
+<img src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+
+#### Data & Infrastructure
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+
+## 📊 GitHub Stats
+
+![Jinyoung's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jinyoung-King&theme=dracula)
