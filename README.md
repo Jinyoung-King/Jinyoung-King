@@ -13,12 +13,11 @@ Choose your preferred language to read my profile.
 
 ## 📊 GitHub Stats
 
-![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyoung-King&show_icons=true&theme=dracula)
+![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyoung-King&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyoung-King&layout=compact&theme=dracula)
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyoung-King&count_bg=%237938B2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyoung-King&count_bg=%237938B2&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Jinyoung-King)
 
 ---
 
